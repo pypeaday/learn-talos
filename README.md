@@ -1,0 +1,3 @@
+# Learn Talos
+
+I think talos is where I want to deploy my homelab...
